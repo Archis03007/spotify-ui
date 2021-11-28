@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+site is published at https://archis03007.github.io/spotify-ui/
+
 You can use the [editor on GitHub](https://github.com/Archis03007/spotify-ui/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
